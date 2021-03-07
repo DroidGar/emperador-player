@@ -1,0 +1,22 @@
+PODS:
+  - emperador_player (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - emperador_player (from `.symlinks/plugins/emperador_player/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  emperador_player:
+    :path: ".symlinks/plugins/emperador_player/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  emperador_player: c36fdbfaee0e853bd97e66527ee1296644fcff9e
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0

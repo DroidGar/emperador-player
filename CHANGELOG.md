@@ -13,3 +13,7 @@
 ## 0.0.4
 
 * Updated metadata to remove whitespaces.
+
+## 0.0.5
+
+* Added IOS support.
